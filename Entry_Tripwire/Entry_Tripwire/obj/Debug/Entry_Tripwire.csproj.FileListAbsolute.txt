@@ -1,0 +1,9 @@
+C:\Users\CCSDuser\Documents\GitHub\Class-PRG-321\Tax Application\Final Assignment\Entry_Tripwire\Entry_Tripwire\bin\Debug\Entry_Tripwire.exe.config
+C:\Users\CCSDuser\Documents\GitHub\Class-PRG-321\Tax Application\Final Assignment\Entry_Tripwire\Entry_Tripwire\bin\Debug\Entry_Tripwire.exe
+C:\Users\CCSDuser\Documents\GitHub\Class-PRG-321\Tax Application\Final Assignment\Entry_Tripwire\Entry_Tripwire\bin\Debug\Entry_Tripwire.pdb
+C:\Users\CCSDuser\Documents\GitHub\Class-PRG-321\Tax Application\Final Assignment\Entry_Tripwire\Entry_Tripwire\obj\Debug\Entry_Tripwire.csprojResolveAssemblyReference.cache
+C:\Users\CCSDuser\Documents\GitHub\Class-PRG-321\Tax Application\Final Assignment\Entry_Tripwire\Entry_Tripwire\obj\Debug\Entry_Tripwire.exe
+C:\Users\CCSDuser\Documents\GitHub\Class-PRG-321\Tax Application\Final Assignment\Entry_Tripwire\Entry_Tripwire\obj\Debug\Entry_Tripwire.pdb
+C:\Users\CCSDuser\Documents\GitHub\C-sharp-notes\Entry_Tripwire\Entry_Tripwire\bin\Debug\Entry_Tripwire.exe.config
+C:\Users\CCSDuser\Documents\GitHub\C-sharp-notes\Entry_Tripwire\Entry_Tripwire\obj\Debug\Entry_Tripwire.exe
+C:\Users\CCSDuser\Documents\GitHub\C-sharp-notes\Entry_Tripwire\Entry_Tripwire\obj\Debug\Entry_Tripwire.pdb

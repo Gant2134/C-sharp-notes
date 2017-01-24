@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entry_Tripwire", "Entry_Tripwire\Entry_Tripwire.csproj", "{E7EE64AC-309B-4887-AE4A-7098FA220285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7EE64AC-309B-4887-AE4A-7098FA220285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7EE64AC-309B-4887-AE4A-7098FA220285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7EE64AC-309B-4887-AE4A-7098FA220285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7EE64AC-309B-4887-AE4A-7098FA220285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
